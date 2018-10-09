@@ -3,7 +3,7 @@ const fs = require('fs');
 const  {exec }  = require("child_process");
 const config = {
     port: 8124,
-    pathFiles: 'E:/Files',
+    pathFiles: 'C:/Files',
 };
 
 let clientCount = 0;
